@@ -5,16 +5,17 @@ Docker Image containing a python app to turn off my TV from Alexa
 1) git Clone
 2) docker build -t soulmanos/rpi-docker-alexa-teevee .
 
-#### All Credit to https://github.com/toddmedema/echo.git
+### All Credit to https://github.com/toddmedema/echo.git
 
-# echo
+### echo
+
 For controlling local devices with the Amazon Echo.
 
 Instructions for installation and usage [available on Instructables here](http://www.instructables.com/id/Hacking-the-Amazon-Echo/)
 
 Brought to you by [FabricateIO](http://fabricate.io)
 
-## Quick Start
+### Quick Start
 
 1. Create a [Python Virtual Environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 2. git clone *this_repo*
