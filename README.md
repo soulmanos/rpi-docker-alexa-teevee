@@ -2,6 +2,8 @@
 
 Docker Image containing a python app to turn off my TV from Alexa
 
+1) git Clone
+2) docker build -t soulmanos/rpi-docker-alexa-teevee .
 
 #### All Credit to https://github.com/toddmedema/echo.git
 

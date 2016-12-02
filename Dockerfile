@@ -15,5 +15,5 @@ WORKDIR /usr/src/rpi-docker-alexa-teevee
 EXPOSE 1900,57621,52000
 
 # Run script/application
-CMD ["python", "/usr/src/rpi-docker-alexa-teevee/<scriptName>"]
+CMD ["python", "/usr/src/rpi-docker-alexa-teevee/turn-tele-off.py"]
 
